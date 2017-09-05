@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "i7BD7wKsIrix92VtlJ4zQRP4G8c=",
+			"path": "github.com/crowdmob/goamz/aws",
+			"revision": "3a06871fe9fc0281ca90f3a7d97258d042ed64c0",
+			"revisionTime": "2015-01-28T19:49:25Z"
+		},
+		{
+			"checksumSHA1": "UYjYq+ekGaaoK1NnQu12JQ7KTBI=",
+			"path": "github.com/crowdmob/goamz/ec2",
+			"revision": "3a06871fe9fc0281ca90f3a7d97258d042ed64c0",
+			"revisionTime": "2015-01-28T19:49:25Z"
+		}
+	],
+	"rootPath": "github.com/ambakshi/ec2-tags"
+}
